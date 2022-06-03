@@ -1,0 +1,15 @@
+shap
+lime
+notebook
+matplotlib
+scikit-plot
+seaborn
+azure-core
+azure-kusto-data
+azure-kusto-ingest
+azureml-interpret
+numpy
+pandas
+scikit-learn
+raiwidgets
+themis-ml

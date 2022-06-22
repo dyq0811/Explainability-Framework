@@ -4,10 +4,6 @@
 ```
 pip install -r requirements.txt
 ```
-OR
-```
-conda list -e > requirements.txt
-```
 
 `lgbm.pkl`, `data.parquet` - sample input files, vanilla LightGMB and dataset
 

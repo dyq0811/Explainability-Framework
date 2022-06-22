@@ -2,7 +2,7 @@
 
 `requiremetn.txt` - set up the environment
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 OR
 ```
